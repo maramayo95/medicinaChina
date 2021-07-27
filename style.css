@@ -1,0 +1,50 @@
+body {
+    background-color: #F1F0EE;
+}
+
+
+h1 {
+    color:#4F3526 ;
+    font-size: 3rem; 
+    font-weight: bold; 
+}
+
+h2 {
+    color: white ; 
+    font-size: 2rem;
+    text-align:center;
+    font-weight: bold;
+    text-shadow: 3px 2px 2px #cfb6aa;
+}
+
+.card {
+    background-color:#d8cac3;
+    box-shadow: 10px 10px 8px #888888;
+}
+.form-label {
+    color:#4F3526 ;
+    font-weight: bold; 
+    font-size: 1.5rem;
+    
+}
+
+.btn{
+    margin-left: 10px; 
+    background-color:#4F3526;
+    color: white;
+}
+
+
+}
+
+button.btn.btn-info {
+    color: white;
+    background-color:#4F3526;
+}
+
+
+.rowCopyright {
+    background-color:#3b281d;
+    color: white; 
+    padding: 20px;
+}
